@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Document : TourData.xml
+Author : vincent
+Description:
+    This XML document stores the transaction details of a customer in Global Bank.
+-->
+<Bank xmlns="http://www.aptechworldwide.com" xmlns:Transact="http://aptech.ac.in">
+    <Name>John Dykes</Name>
+    <Address>457, Kingston Road, New York</Address>
+    <Phone>4747777</Phone>
+    <AccountNumber Type="Savings">657858779</AccountNumber>
+    <Openingbalance>$35000</Openingbalance>
+    <TransactionDetails>
+        <Transact:TransactionID Transact:Transaction="Deposit">457</Transact:TransactionID>
+        <Transact:Amount>$10000</Transact:Amount>
+        <Transact:Amount>$10000</Transact:Amount>
+    </TransactionDetails>
+    <ClosingBalance xmlns="http://www.aptech.edu.ac">$36000</ClosingBalance>
+</Bank>

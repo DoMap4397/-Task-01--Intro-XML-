@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Document : HotelAudit.xml
+Author : vincent
+Description:
+    It gives the result of a hotel audit.
+-->
+<Hotel_Audit>
+    <Hotel_Name>
+        Precious View
+    </Hotel_Name>
+    <Hotel_Address>
+        #1, Where Street, Where how City, Where why, 98045.
+        <Hotel_Phone>
+            (065)1243-0000
+        </Hotel_Phone>
+    </Hotel_Address>
+    <Hotel_Reting>
+        ***
+    </Hotel_Reting>
+    <Summary>
+        The hotel charges are reasonable.
+    </Summary>
+</Hotel_Audit>
